@@ -1,3 +1,4 @@
+import pprint
 f = open("knowledge_base.txt")
 chunk = f.read()
 
@@ -12,14 +13,23 @@ def clean(data):
 
     return result
 
-def find(data, ques):
-    result = []
+def find(db, ques):
+    result = {}
+    stop = ['how', 'where', 'when', 'why', 'what', 'who', 'and', 'a', 'the', 'an', 'is', 'am', 'are', 'on', 'to', 'in', 'at', 'for']
     for word in ques:
-        for x in data:
+        if word in stop:
+            continue
+        for i, sentence in enumerate(db):
+            if word in sentence:
+                result[word] = " ".join(db[max(0, i-3):i+3])
+    return result
 
 
 question = "What is Paracetamol dosage for children"
 question = question.lower().split()
 sen = chunk.lower().split("\n")
-print(clean(sen))
-print(clean(question))
+db = clean(sen)
+ques = clean(question)
+pprint.pprint(find(db, ques))
+# print(clean(sen))
+# print(clean(question))
