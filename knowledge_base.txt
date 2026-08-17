@@ -1,0 +1,95 @@
+CORE PARACETAMOL PRODUCT INFORMATION
+
+Product description
+
+This section should include:
+
+a description of the dosage form;
+a list of the active ingredients expressed quantitatively; and
+a list of the excipients expressed qualitatively
+
+
+Pharmacology
+
+Pharmacokinetics:
+Paracetamol is readily absorbed from the gastrointestinal tract with peak plasma concentrations occurring about 10 to 60 minutes after oral administration. Paracetamol is distributed into most body tissues. Plasma protein binding is negligible at usual therapeutic doses but increases with increasing doses. The elimination half-life varies from about 1 to 3 hours.
+
+Paracetamol is metabolised extensively in the liver and excreted in the urine mainly as inactive glucuronide and sulfate conjugates. Less than 5% is excreted unchanged. The metabolites of paracetamol include a minor hydroxylated intermediate which has hepatotoxic activity. This intermediate metabolite is detoxified by conjugation with glutathione, however, it can accumulate following paracetamol overdosage (more than 150mg/kg or 10g total paracetamol ingested) and if left untreated can cause irreversible liver damage. 
+
+Paracetamol is metabolised differently by premature infants, newborns, infants and young children compared to adults, the sulfate conjugate being predominant.
+
+Pharmacodynamics/Mechanism of action:
+Paracetamol is a p-aminophenol derivative that exhibits analgesic and antipyretic activity. It does not possess anti-inflammatory activity.  Paracetamol is thought to produce analgesia through a central inhibition of prostaglandin synthesis. 
+
+
+Indications
+
+This section must contain the indications of the product as specified in the ARTG. If the indications are not specified in the ARTG (e.g. for a non-validated grandfathered product), the indications must be as specified on the product label. 
+
+
+Contraindications
+
+Paracetamol is contraindicated for use in patients with known hypersensitivity or idiosyncratic reaction to paracetamol (or any of the other ingredients in the product);
+
+Refer to ‘Interactions with other medicines’ for additional information
+
+Precautions
+
+Paracetamol should be used with caution in patients with:
+impaired hepatic function
+impaired renal function 
+
+Refer to ‘Interactions with other medicines’ for additional information
+
+Use in pregnancy
+Category A: Paracetamol has been taken by a large number of pregnant women and women of childbearing age without any proven increase in the frequency of malformations or other direct or indirect harmful effects on the foetus having been observed.
+
+Lactation
+Paracetamol is excreted in small amounts (< 0.2%) in breast milk. Maternal ingestion of paracetamol in usual analgesic doses does not appear to present a risk to the breastfed infants. 
+
+Interaction with other medicines
+The following interactions with paracetamol have been noted:
+
+Anticoagulant drugs (warfarin) - dosage may require reduction if paracetamol and anticoagulants are taken for a prolonged period of time
+Paracetamol absorption is increased by substances that increase gastric emptying, e.g. metoclopramide
+Paracetamol absorption is decreased by substances that decrease gastric emptying, e.g. propantheline, antidepressants with anticholinergic properties, and narcotic analgesics
+Paracetamol may increase chloramphenicol concentrations
+The risk of paracetamol toxicity may be increased in patients receiving other potentially hepatotoxic drugs or drugs that induce liver microsomal enzymes such as alcohol and anticonvulsant agents
+Paracetamol excretion may be affected and plasma concentrations altered when given with probenecid
+Colestyramine reduces the absorption of paracetamol if given within 1 hour of paracetamol. 
+
+
+Adverse reactions
+
+Side effects of paracetamol are rare and usually mild, although haematological reactions have been reported. Skin rashes and hypersensitivity reactions occur occasionally. Overdosage with paracetamol if left untreated can result in severe, sometimes fatal liver damage and rarely, acute renal tubular necrosis. 
+
+
+Dosage
+
+This section must contain the current dosage instructions of the registered product, as specified on the product label. 
+
+Use in adults
+Paracetamol should not be taken for more than a few days at a time except on medical advice. 
+
+Use in children
+Paracetamol should not be taken for more than 48 hours except on medical advice. 
+
+
+Overdosage
+
+If an overdose is taken or suspected, immediately contact the Poisons Information Centre (in Australia, call 131 126; in New Zealand call 0800 764 766) for advice, or go to a hospital straight away even if you feel well because of the risk of delayed, serious liver damage. 
+
+
+Presentation
+
+Information should be included on:
+
+the presentation, including dosage form and pack sizes;
+identifying details (eg. colour, shape, identifying markings);
+poisons schedule details; and
+name and address of the sponsor
+
+Include the date of approval as the date on which the notification application is lodged
+
+
+
