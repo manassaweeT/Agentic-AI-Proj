@@ -24,12 +24,12 @@ def find(db, ques):
                 result[word] = " ".join(db[max(0, i-3):i+3])
     return result
 
-
-question = "What is Paracetamol dosage for children"
-question = question.lower().split()
-sen = chunk.lower().split("\n")
-db = clean(sen)
-ques = clean(question)
-pprint.pprint(find(db, ques))
+# Manual test
+# question = "What is Paracetamol dosage for children"
+# question = question.lower().split()
+# sen = chunk.lower().split("\n")
+# db = clean(sen)
+# ques = clean(question)
+# pprint.pprint(find(db, ques))
 # print(clean(sen))
 # print(clean(question))
